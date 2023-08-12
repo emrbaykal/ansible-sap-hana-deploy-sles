@@ -2,7 +2,7 @@
 
   # Proliant Server ILO Info
   server_hardware_ilo_ip: xx.xx.xx.xx
-  server_hardware_username: xxxxxxx 
+  server_hardware_username: xxxxxxx
   server_hardware_password: xxxxxxx
 
   # Persistent Memory Configuration
