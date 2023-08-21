@@ -24,8 +24,8 @@
           pam_module: google-authenticator-libpam-1.09-15.2.x86_64.rpm
 
           # Vmware Virtual Center Credentails
-          vcenter_hostname: xxxxx.hpetrlab.local
-          vcenter_username: emre.baykal@hpetrlab.local
+          vcenter_hostname: xxxxx.lab.local
+          vcenter_username: emre.baykal@lab.local
           vcenter_password: xxxxx
 
           # Sap Servers Hostname / IP Informations
@@ -81,7 +81,7 @@
               sapcar: SAPCAR_1324-80000935.EXE
               hostagent: saphostagentrpm_175-20005731.rpm
               spp: P26228_001_spp-2019.12.0-SPP2019120.2019_1209.4.iso
-              source: /home/hpe/ansible/ansible-sap-hana-deploy-sles/setup/html/media
+              source: /home/test/ansible/ansible-sap-hana-deploy-sles/setup/html/media
               destination: /setup
 
 

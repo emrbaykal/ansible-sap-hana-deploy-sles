@@ -79,7 +79,7 @@
               sapcar: SAPCAR_1010-70006178.EXE
               hostagent: saphostagentrpm_54-80004822.rpm
               spp: P26228_001_spp-2019.12.0-SPP2019120.2019_1209.4.iso
-              source: /home/hpe/ansible/ansible-sap-hana-deploy-sles/setup/html/media
+              source: /home/test/ansible/ansible-sap-hana-deploy-sles/setup/html/media
               destination: /setup
 
 
